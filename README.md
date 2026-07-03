@@ -8,3 +8,7 @@ A simple gut hub demo for Dev Ops
 ## Introduction
 
 This is a example to show git Repository and various commands using a web project.
+
+## Purpose
+
+Purpose of project
